@@ -25,7 +25,7 @@ spec:
   sourceFormat: unstructured
   git:
     # If you fork this repo, change the url to point to your fork
-    repo: https://github.com/GoogleCloudPlatform/anthos-config-management-samples
+    repo: https://github.com/GoogleCloudPlatform/anthos-config-management-samples/k8s-git-on-rails/config/packages/myapp1
     # If you move the configs to a different branch, update the branch here
     branch: main
     dir: config-sync-quickstart/multirepo/namespaces/gamestore
